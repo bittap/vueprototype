@@ -9,7 +9,7 @@
   </div>
   <div>
     <h4>{{ products[1] }}</h4>
-    <p>{{ price2 }}万円</p>
+    <p>{{ price2 }}万円</p> 
   </div>
 </template>
 
