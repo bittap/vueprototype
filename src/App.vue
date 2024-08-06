@@ -5,7 +5,7 @@
   <div>
     {{ logo }}
     <h4 :style="style">{{ products[0] }}</h4>
-    <p>{{ price1 }}万円</p>
+    <p>{{ price1 }}万円</p> 
   </div>
   <div>
     <h4>{{ products[1] }}</h4>
